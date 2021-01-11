@@ -11,7 +11,7 @@ button {
 
     width: 800px;
     height: 600px;
-    background: url(/carrot/images/background.png) center/cover;
+    background: url(images/background.png) center/cover;
     border-radius: 20px;
 }
 

@@ -12,8 +12,8 @@ export default class Field {
     }
 
     startGame() {
-        this._addItem('carrot', this.carrotCount, '/carrot/images/carrot.png');
-        this._addItem('bug', this.bugCount, '/carrot/images/bug.png');
+        this._addItem('carrot', this.carrotCount, 'images/carrot.png');
+        this._addItem('bug', this.bugCount, 'images/bug.png');
     }
 
     resetGame() {
